@@ -1865,6 +1865,7 @@
 				5B3279A51976677A00F3AC49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B3279A61976677A00F3AC49 /* Build configuration list for PBXNativeTarget "clippy" */ = {
 			isa = XCConfigurationList;
@@ -1873,6 +1874,7 @@
 				5B3279A81976677A00F3AC49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

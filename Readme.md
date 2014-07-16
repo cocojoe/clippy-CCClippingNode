@@ -1,13 +1,8 @@
 Clippy - CCClippingNode Example
 =================
 
-Description
+More Information
 -----------
 
-Little Keepers iOS Game (Under NDA)
-  
-Misc
-----
-
-Any questions you can find me (@cocojoe) on the cocos2d forum: 
-http://www.cocos2d-iphone.org/forum/ 
+Please see: 
+http://forum.spritebuilder.com/t/ccclipping-node-example-clippy-project/1478
